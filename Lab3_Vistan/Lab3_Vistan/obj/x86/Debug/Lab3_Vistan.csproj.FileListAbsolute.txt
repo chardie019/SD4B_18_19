@@ -1,0 +1,7 @@
+C:\Users\Jessica\Documents\Visual Studio 2010\Projects\Lab3_Vistan\Lab3_Vistan\bin\Debug\Lab3_Vistan.exe
+C:\Users\Jessica\Documents\Visual Studio 2010\Projects\Lab3_Vistan\Lab3_Vistan\bin\Debug\Lab3_Vistan.pdb
+C:\Users\Jessica\Documents\Visual Studio 2010\Projects\Lab3_Vistan\Lab3_Vistan\obj\x86\Debug\Lab3_Vistan.Calculator.resources
+C:\Users\Jessica\Documents\Visual Studio 2010\Projects\Lab3_Vistan\Lab3_Vistan\obj\x86\Debug\Lab3_Vistan.Properties.Resources.resources
+C:\Users\Jessica\Documents\Visual Studio 2010\Projects\Lab3_Vistan\Lab3_Vistan\obj\x86\Debug\Lab3_Vistan.csproj.GenerateResource.Cache
+C:\Users\Jessica\Documents\Visual Studio 2010\Projects\Lab3_Vistan\Lab3_Vistan\obj\x86\Debug\Lab3_Vistan.exe
+C:\Users\Jessica\Documents\Visual Studio 2010\Projects\Lab3_Vistan\Lab3_Vistan\obj\x86\Debug\Lab3_Vistan.pdb
